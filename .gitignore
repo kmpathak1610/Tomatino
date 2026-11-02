@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Next.js & Builds
+.next/
+out/
+dist/
+build/
+.turbo/
+
+# Environment files
+.env
+.env*.local
+!.env.example
+
+# Runtime & Logs
+*.log
+pgdata/
+.DS_Store
